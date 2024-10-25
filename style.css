@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.main-cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+h1{
+    margin: 10px;
+    color: rgb(0, 147, 147);
+    font-weight: 600;
+}
+h5{
+    font-size: 18px;
+   font-family: 'Courier New', Courier, monospace;
+   font-weight: 800; 
+    
+}
